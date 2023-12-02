@@ -1,4 +1,5 @@
 # zzz102
+https://discord.com/invite/cr4jdz6s
 p
 import discord
 from discord.ext import commands
