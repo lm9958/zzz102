@@ -11,5 +11,5 @@ async def server_info(ctx, server_link):
     server = await bot.fetch_guild(parsed_link.guild.id)
     server_name = server.name
     server_id = server.id
-    await ctx.send(f"该服务器的名称为: {server_name}，ID为：{server_id}")
+    await ctx.send(f"该服务器的名称为:捶捶的服务器 {server_name}，ID为：{1174574546075004938}")
 
